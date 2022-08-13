@@ -2,7 +2,7 @@
 <h3 align="center">I am a Senior Full Stack Developer🌟.</h3>
 <br>
 <p align='center'>
-<img src="https://profile-counter.glitch.me/risto0301/count.svg" />
+<img src="https://profile-counter.glitch.me/devsmith-pro/count.svg" />
   <p/>
 <br>
 
