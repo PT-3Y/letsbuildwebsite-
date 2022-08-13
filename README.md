@@ -1,16 +1,57 @@
-### Hi there 👋
+<h1 align="center">Hi 👋 there</h1>
+<h3 align="center">I am a Senior Full Stack Developer🌟.</h3>
+<br>
+<p align='center'>
+<img src="https://profile-counter.glitch.me/risto0301/count.svg" />
+  <p/>
+<br>
 
-<!--
-**devsmith-pro/devsmith-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+⚡ **Languages and Tools:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/php/php-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/python/python-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg'/></code>
+  <code><img width='100px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVt3A29FWA35kDD1MkvyC1LferPWSuZLT3cgLraYAFmIwoYf6H6yNAgT9rs68HAEnzWAY&usqp=CAU'/></code>
+  <br>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg'/></code>
+  <code><img width='100px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/angular/angular-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg'/></code>
+  <br>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg'/></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width='100px' src="https://i.ytimg.com/vi/E8l4UryS73w/maxresdefault.jpg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/coinbase/coinbase-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-ar21.svg"></code>
+</p>
+<br/>
+⚡ Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsmith-pro&theme=vue-dark" alt="devsmith-pro" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devsmith-pro&theme=tokyonight">
+</p>
+⚡ Recent Github Activity
+<a href="https://github.com/devsmith-pro"><img alt="John's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devsmith-pro&custom_title=Recent%20Activity&theme=react-dark" /></a>
