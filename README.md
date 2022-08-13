@@ -21,12 +21,10 @@
   <code><img width='100px' src='https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg'/></code>
   <code><img width='100px' src='https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg'/></code>
   <code><img width='100px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVt3A29FWA35kDD1MkvyC1LferPWSuZLT3cgLraYAFmIwoYf6H6yNAgT9rs68HAEnzWAY&usqp=CAU'/></code>
-  <br>
   <code><img width='100px' src='https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg'/></code>
   <code><img width='100px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png'/></code>
   <code><img width='100px' src='https://www.vectorlogo.zone/logos/angular/angular-ar21.svg'/></code>
   <code><img width='100px' src='https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg'/></code>
-  <br>
   <code><img width='100px' src='https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg'/></code>
   <code><img width='100px' src='https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg'/></code>
   <code><img width='100px' src='https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg'/></code>
