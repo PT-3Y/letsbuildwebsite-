@@ -2,7 +2,7 @@
 <h3 align="center">I am a Senior Full Stack Developer🌟.</h3>
 <br>
 <p align='center'>
-<img src="https://profile-counter.glitch.me/devsmith-pro/count.svg" />
+<img src="https://profile-counter.glitch.me/goldenstar-dev/count.svg" />
   <p/>
 <br>
 
@@ -48,8 +48,8 @@
 <br/>
 ⚡ Statistics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsmith-pro&theme=vue-dark" alt="devsmith-pro" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devsmith-pro&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goldenstar-dev&theme=vue-dark" alt="goldenstar-dev" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=goldenstar-dev&theme=tokyonight">
 </p>
 ⚡ Recent Github Activity
-<a href="https://github.com/devsmith-pro"><img alt="John's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devsmith-pro&custom_title=Recent%20Activity&theme=react-dark" /></a>
+<a href="https://github.com/goldenstar-dev"><img alt="John's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=goldenstar-dev&custom_title=Recent%20Activity&theme=react-dark" /></a>
