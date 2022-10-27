@@ -2,7 +2,10 @@
 <h3 align="center">I am a Senior Full Stack Developer🌟.</h3>
 <br>
 <p align='center'>
-<img src="https://profile-counter.glitch.me/goldenstar-dev/count.svg" />
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
   <p/>
 <br>
 
