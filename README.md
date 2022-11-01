@@ -35,14 +35,14 @@
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/JQuery-03599C.svg?logo=jquery&logoColor=white"></a>
     <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-E34F26.svg?logo=solidity&logoColor=white"></a>
     <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-03599C.svg?logo=rust&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-03599C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-03599C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>    
 </p>
 
 > Frameworks and libraries.
@@ -115,57 +115,9 @@
 > Contact Me.
 
 <p>
-    <a href="https://join.skype.com/invite/x9uVjXmB5LRY"><img alt="Skype" src="https://img.shields.io/badge/Skype-1572B6.svg?logo=skype&logoColor=white">
-    <a href="https://join.slack.com/t/etspach/shared_invite/zt-1akxwey4y-FGWeiaKN6MQn~43RU8_dFg"><img alt="Slack" src="https://img.shields.io/badge/Slack-4ea94b.svg?logo=slack&logoColor=white">
-    <a href="mailto:golden.peach.ts@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-E34F26.svg?logo=gmail&logoColor=white">
-    <a href="https://t.me/wb_ts"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
-
+    <a href="https://join.skype.com/invite/wNOqYeHtTlBN"><img alt="Skype" src="https://img.shields.io/badge/Skype-1572B6.svg?logo=skype&logoColor=white">
+    <a href="https://t.me/join2smatdev"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
 </p>
-
-
-
-
-
-
-⚡ **Languages and Tools:**
-
-<p align="center">
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/php/php-ar21.svg'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/python/python-ar21.svg'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg'/></code>
-  <code><img width='100px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVt3A29FWA35kDD1MkvyC1LferPWSuZLT3cgLraYAFmIwoYf6H6yNAgT9rs68HAEnzWAY&usqp=CAU'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg'/></code>
-  <code><img width='100px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/angular/angular-ar21.svg'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg'/></code>
-  <code><img width='100px' src='https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg'/></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width='100px' src="https://i.ytimg.com/vi/E8l4UryS73w/maxresdefault.jpg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/coinbase/coinbase-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-  <code><img width='100px' src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-ar21.svg"></code>
-</p>
-<br/>
 ⚡ Statistics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=goldenstar-dev&theme=vue-dark" alt="goldenstar-dev" />
