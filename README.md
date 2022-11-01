@@ -118,10 +118,5 @@
     <a href="https://join.skype.com/invite/wNOqYeHtTlBN"><img alt="Skype" src="https://img.shields.io/badge/Skype-1572B6.svg?logo=skype&logoColor=white">
     <a href="https://t.me/join2smatdev"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
 </p>
-⚡ Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goldenstar-dev&theme=vue-dark" alt="goldenstar-dev" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=goldenstar-dev&theme=tokyonight">
-</p>
 ⚡ Recent Github Activity
 <a href="https://github.com/goldenstar-dev"><img alt="John's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=goldenstar-dev&custom_title=Recent%20Activity&theme=react-dark" /></a>
