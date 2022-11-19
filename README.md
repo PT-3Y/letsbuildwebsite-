@@ -3,8 +3,8 @@
 <br>
 <p align='center'>
 <a href="https://github.com/jstrieb/github-stats">
-<!-- ![](https://raw.githubusercontent.com/goldenstar-dev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/goldenstar-dev/github-stats/master/generated/overview.svg#gh-light-mode-only) -->
+<!-- ![](https://raw.githubusercontent.com/opensky741/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/opensky741/github-stats/master/generated/overview.svg#gh-light-mode-only) -->
 <!-- <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> -->
 </a>
@@ -18,10 +18,10 @@
 
 
 <div>
-  <img height="100px" align="right" src="https://github-readme-stats.vercel.app/api?username=goldenstar-dev&show_icons=true&theme=merko&count_private=true" />
-  <img height="100px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldenstar-dev&layout=compact&theme=merko&count_private=true" />
+  <img height="100px" align="right" src="https://github-readme-stats.vercel.app/api?username=opensky741&show_icons=true&theme=merko&count_private=true" />
+  <img height="100px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opensky741&layout=compact&theme=merko&count_private=true" />
   
-  <p>  🥇 A Professional full-stack Web and Blockchain engineer for over than 7 years : till now, this guy <code>goldenstar-dev</code> has worked on so many projects. Always provides very creative ideas and has high passion, high ability, clean coding ability. His strongest asset is his work ethic and his willingness to step in when needed. He is not afraid to take on a difficult client or do a project that nobody else wants because those are the clients and projects that teach him the most. He typically loves to work outside of his job description and do whatever is asked of him. He is not above any single task, and He takes great pride in his ability to step in and adapt to any situation to get the best results for the company or clients. From simple landing pages to complex platform development, there will be existed always anything perfect within his reach. He has strong work experience in all of blockchain platform development containing Dao ,Dex, Defi , Dapps, Casino Website , Web3 Game , NFT minting/marketplace , Metaverse.
+  <p>  🥇 A Professional full-stack Web and Blockchain engineer for over than 7 years : till now, this guy <code>open sky</code> has worked on so many projects. Always provides very creative ideas and has high passion, high ability, clean coding ability. His strongest asset is his work ethic and his willingness to step in when needed. He is not afraid to take on a difficult client or do a project that nobody else wants because those are the clients and projects that teach him the most. He typically loves to work outside of his job description and do whatever is asked of him. He is not above any single task, and He takes great pride in his ability to step in and adapt to any situation to get the best results for the company or clients. From simple landing pages to complex platform development, there will be existed always anything perfect within his reach. He has strong work experience in all of blockchain platform development containing Dao ,Dex, Defi , Dapps, Casino Website , Web3 Game , NFT minting/marketplace , Metaverse.
   </p>
   "It's a pity I can't give him more than 5 stars for his ability, honesty and reliability." ⭐⭐⭐⭐⭐ James Alley
 </div>
@@ -117,7 +117,7 @@
 
 <p>
     <a href="https://join.skype.com/invite/wNOqYeHtTlBN"><img alt="Skype" src="https://img.shields.io/badge/Skype-1572B6.svg?logo=skype&logoColor=white">
-    <a href="https://t.me/join2smartdev"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
+    <a href="https://t.me/join2open"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
 </p>
 ⚡ Recent Github Activity
-<a href="https://github.com/goldenstar-dev"><img alt="John's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=goldenstar-dev&custom_title=Recent%20Activity&theme=react-dark" /></a>
+<a href="https://github.com/opensky741"><img alt="John's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=opensky741&custom_title=Recent%20Activity&theme=react-dark" /></a>
