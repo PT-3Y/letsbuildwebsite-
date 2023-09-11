@@ -40,7 +40,7 @@
     <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-E34F26.svg?logo=solidity&logoColor=white"></a>
     <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-03599C.svg?logo=rust&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-03599C.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-03599C.svg?logo=ASP&logoColor=white"></a>
+ 
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>    
@@ -59,6 +59,7 @@
     <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-7952B3.svg?logo=three.js&logoColor=white"></a>
     <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-525252.svg?logo=chart.js&logoColor=white"></a>
     <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-20232a.svg?logo=vue.js&logoColor=%white"></a>
+   <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-03599C.svg?logo=ASP&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
