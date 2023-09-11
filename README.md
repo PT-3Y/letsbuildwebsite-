@@ -40,6 +40,7 @@
     <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-E34F26.svg?logo=solidity&logoColor=white"></a>
     <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-03599C.svg?logo=rust&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-03599C.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/Python-03599C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>    
@@ -119,4 +120,4 @@
     <a href="https://t.me/join2open"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
 </p>
 ⚡ Recent Github Activity
-<a href="https://github.com/opensky741"><img alt="John's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=opensky741&custom_title=Recent%20Activity&theme=react-dark" /></a>
+<a href="https://github.com/opensky741"><img alt="Pt_had's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=opensky741&custom_title=Recent%20Activity&theme=react-dark" /></a>
