@@ -40,7 +40,7 @@
     <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-E34F26.svg?logo=solidity&logoColor=white"></a>
     <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-03599C.svg?logo=rust&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-03599C.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/Python-03599C.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-03599C.svg?logo=ASP&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>    
