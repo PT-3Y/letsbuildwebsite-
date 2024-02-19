@@ -117,4 +117,4 @@
     <a href="https://t.me/join2open"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
 </p>
 ⚡ Recent Github Activity
-<a href="https://github.com/1"><img alt="Pt_had's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=opensky741&custom_title=Recent%20Activity&theme=react-dark" /></a>
+<a href="https://github.com/"><img alt="Pt_had's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=opensky741&custom_title=Recent%20Activity&theme=react-dark" /></a>
